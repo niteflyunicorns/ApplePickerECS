@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a5a50957d2ca8f448a01252fd3f9f24a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreGT: {instanceID: 0}
+  - splatterPrefab: {fileID: 670725625838703332, guid: eb9b6e007e6b1694f81f614c6056bae4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
